@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:graphql_test/Schems/country_scheme.dart';
+import 'package:graphql_test/schems/country_scheme.dart';
 import 'package:graphql_test/services/service_countries.dart';
 import 'package:rxdart/rxdart.dart';
 

@@ -1,5 +1,5 @@
-import 'package:graphql_test/Schems/countries_scheme.dart';
-import 'package:graphql_test/Schems/country_scheme.dart';
+import 'package:graphql_test/schems/countries_scheme.dart';
+import 'package:graphql_test/schems/country_scheme.dart';
 import 'package:graphql_test/querys/querys.dart';
 import 'package:graphql_test/services/service_base.dart';
 

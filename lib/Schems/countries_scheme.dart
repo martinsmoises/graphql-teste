@@ -1,4 +1,4 @@
-import 'package:graphql_test/Schems/country_scheme.dart';
+import 'package:graphql_test/schems/country_scheme.dart';
 
 class CountriesScheme {
   List<CountryScheme> listCountrys;
